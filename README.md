@@ -1,2 +1,2 @@
 # curso_git
-proyecto del curso github platzi
+proyecto del curso github platzi más un cambio
